@@ -10,7 +10,7 @@ class Binary:
   def __init__(self, num): #где num - число в 10 сс
     ...
 
-  def __ad__(self, other):
+  def __add__(self, other):
     ...
 
   def __sub__(self, other):
@@ -22,7 +22,7 @@ class Binary:
   def __floordiv__(self, other):
     ...
 
-  def __str__(self, other)
+  def __str__(self)
   ...
 ```
 
