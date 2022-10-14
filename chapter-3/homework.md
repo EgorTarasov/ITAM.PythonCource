@@ -77,7 +77,7 @@ class Ternary:
     def __floordiv__(self, other):
         ...
 
-    def __str__(self, other):
+    def __str__(self):
         ...
 ```
 
