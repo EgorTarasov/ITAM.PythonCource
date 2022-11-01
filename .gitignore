@@ -3,3 +3,5 @@ classwork/
 plan.md
 .idea
 m.py
+__pycache__
+venv/
